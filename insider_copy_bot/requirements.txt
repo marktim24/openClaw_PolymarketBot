@@ -1,0 +1,17 @@
+# Insider + Copy Hybrid Trading Bot Requirements
+
+# Core dependencies
+numpy>=1.24.0
+pandas>=2.0.0
+requests>=2.31.0
+python-dotenv>=1.0.0
+
+# Optional for future enhancements
+# web3>=6.0.0  # For direct blockchain access
+# schedule>=1.2.0  # For scheduling
+# python-telegram-bot>=20.0  # For notifications
+
+# Development
+pytest>=7.4.0
+black>=23.0.0
+flake8>=6.0.0

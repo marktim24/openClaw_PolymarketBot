@@ -1,0 +1,20 @@
+[
+  {
+    "address": "0xe2cafb64726ca135a74fcebf9af0ce07d4daa646",
+    "name": "zeto82",
+    "min_win_rate": 0.65,
+    "min_trades": 10
+  },
+  {
+    "address": "0x9ce7de90312489a01af6d4e8661b196c873f7cfa",
+    "name": "DenariusX",
+    "min_win_rate": 0.65,
+    "min_trades": 10
+  },
+  {
+    "address": "0xbea27864852ba214557d12203ecb459ca5b79214",
+    "name": "akirauva",
+    "min_win_rate": 0.65,
+    "min_trades": 10
+  }
+]
